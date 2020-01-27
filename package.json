@@ -2,8 +2,8 @@
   "name": "simple_http",
   "version": "0.0.0",
   "engines": {
-    "node": "10.16.0",
-    "npm": "6.9.0"
+    "node": "12.14.1",
+    "npm": "6.13.4"
   },
   "description": "A simple HTTP example using accept headers.",
   "main": "server.js",
