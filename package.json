@@ -2,8 +2,8 @@
   "name": "simple_http",
   "version": "0.0.0",
   "engines": {
-    "node": "12.14.1",
-    "npm": "6.13.4"
+    "node": "12.18.3",
+    "npm": "6.14.8"
   },
   "description": "A simple HTTP example using accept headers.",
   "main": "server.js",
@@ -12,11 +12,11 @@
     "pretest": "eslint ./src --fix",
     "test": "echo \"Tests complete\""
   },
-  "author": "Cody Van De Mark",
+  "author": "Cody Van De Mark / Austin Willoughby",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.3.0",
-    "eslint-config-airbnb": "^18.0.1",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0"
   }
 }
